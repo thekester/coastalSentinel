@@ -6,6 +6,10 @@ This repository contains the code required to reproduce the results in the confe
 
 This code is only for academic and research purposes. Please cite the above paper if you intend to use whole/part of the code. 
 
+# License 
+Will be updated soon ..
+Works based on 2022 Conor O'Sullivan [https://github.com/conorosully/SWED-edge-detection/](https://github.com/conorosully/SWED-edge-detection/)
+
 ## Data Files
 
 We have used the following dataset in our analysis: 
