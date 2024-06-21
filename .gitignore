@@ -141,3 +141,7 @@ src/*.h5
 src/training_log.csv
 src/psnr_comparison.png
 src/ssim_comparison.png
+
+newdata/images
+newdata/label_image_generate
+newdata/reference_image_generate
