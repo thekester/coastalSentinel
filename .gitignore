@@ -145,3 +145,6 @@ src/ssim_comparison.png
 newdata/images
 newdata/label_image_generate
 newdata/reference_image_generate
+
+src/coastlines.json
+src/distance_results.json
