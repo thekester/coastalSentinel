@@ -3,6 +3,9 @@
 ## Overview
 This repository contains various scripts experimenting with machine learning algorithms to detect coastlines in images. The goal is to identify the most effective algorithms for coastal analysis.
 
+## Zip to download
+To download the classification zip (google earth dataset) used for classification algorithm : https://erosion-ai.tavenel.fr/zip/classification.zip
+
 ## License 
 License details will be updated soon.
 
@@ -11,6 +14,7 @@ Explore the `src` folder for the following scripts:
 
 - `color_segmentation_image_generate.ipynb`: Script for generating images using color segmentation techniques.
 - `combined_color_segmentation_edge_detection_generate_label.ipynb`: This script attempts to combine color segmentation with edge detection to automatically create labeled images.
+- `coastalsentinel.ipynb`: Coastline sentinel script is a script to train ai model to find coastlines
 - `distance.py`: Script for calculate the distance between coastline (dounambay) each year
 - `dounambay.py`: Script for dounambay.
 - `generate_label.ipynb`: Script for generating labels automatically

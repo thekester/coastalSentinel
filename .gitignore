@@ -148,3 +148,14 @@ newdata/reference_image_generate
 
 src/coastlines.json
 src/distance_results.json
+
+#Classification in zip to download
+classification
+classification.zip
+*.zip
+
+src/*.keras
+src/*.h5
+src/*.json
+src/*.csv
+
